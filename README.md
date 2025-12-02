@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**JoshWS/JoshWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Josh**, a data engineer based in the Netherlands.
 
-Here are some ideas to get you started:
+I build data pipelines and make messy data behave itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there's data to scrape, transform, or orchestrate, I'm probably already thinking about how to containerize it.
+
+My main tech stack is **Python, Scrapy, AWS (S3, Athena), Docker, Prefect, and FastAPI**. I spend most of my time wrangling web scrapers and building workflows that actually work at scale.
+
+I've built a bunch of data pipelines, but my favorite projects involve turning chaotic web data into clean, structured datasets that people can actually use.
+
+## Fun Facts:
+- I run a Minecraft server and write Java plugins in my spare time
+- I just got married! 🎉
+- Hobbies: gaming, working out, watching tv, sleeping
