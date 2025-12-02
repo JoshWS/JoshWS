@@ -10,6 +10,8 @@ My main tech stack is **Python, Scrapy, AWS (S3, Athena), Docker, Prefect, and F
 
 I've built a bunch of data pipelines, but my favorite projects involve turning chaotic web data into clean, structured datasets that people can actually use.
 
+A lot of my best work is done while on the job and it leaves me little time to work on my own projects in github but pinned below are some things I have made and tinkered with in the past few years.
+
 ## Fun Facts:
 - I run a Minecraft server and write Java plugins in my spare time
 - I just got married! 🎉
